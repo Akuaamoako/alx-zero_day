@@ -1,0 +1,2 @@
+The command to get all changes of a branch locally is
+git pull origin <branch_name>
